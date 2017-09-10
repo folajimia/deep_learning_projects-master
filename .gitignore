@@ -1,0 +1,10 @@
+
+# python cache files
+*.pyc
+__pycache__/
+
+# mac files
+.DS_Store
+
+.idea/
+
