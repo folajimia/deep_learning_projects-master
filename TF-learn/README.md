@@ -11,4 +11,4 @@ TFlearn is a modular and transparent deep learning library built on top of Tenso
 
 It does a lot of the heavy lifting such as initializing weights, running the forward pass, and taking care of backpropagation.
 
-You can documentation and more details at http://tflearn.org
+You can find documentation and more details at http://tflearn.org
